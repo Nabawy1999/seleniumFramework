@@ -1,0 +1,11 @@
+tests\AddProductToCompare.class
+tests\MyAccountTest.class
+utilities\Helper.class
+tests\ContactsUsTest.class
+tests\RegisteredUserCheckOutProduct.class
+tests\AddProductToShoppingCart.class
+tests\ProductHoverMenuTest.class
+tests\SearchProductTest.class
+tests\TestBase.class
+tests\ChangeCurrencyTest.class
+tests\UserRegistrationTest.class

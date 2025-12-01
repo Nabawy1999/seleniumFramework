@@ -1,0 +1,4 @@
+[21812:5476:1029/022851.607:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[10380:6652:1029/022852.123:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[27736:21500:1029/022852.124:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[23008:17728:1029/022852.998:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)

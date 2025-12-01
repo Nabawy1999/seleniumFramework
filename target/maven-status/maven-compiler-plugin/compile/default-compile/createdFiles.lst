@@ -1,0 +1,11 @@
+pages\ShoppingCartPage.class
+pages\ProductDetailsPage.class
+pages\ComparePage.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\SearchPage.class
+pages\CheckOutPage.class
+pages\PageBase.class
+pages\UserRegistrationPage.class
+pages\ContactUsPage.class
+pages\MyAccountPage.class
